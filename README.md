@@ -1,11 +1,10 @@
 # reading_list
 * _Mar. xx, 2022_ [](), (Angxiao Yue)
 * _Mar. xx, 2022_ [](), (Yutong Wang)
-* _Feb. 22, 2022_ [](), (Haoran Cheng)
+* _Feb. 22, 2022_ [Highly accurate protein structure prediction with AlphaFold](https://www.nature.com/articles/s41586-021-03819-2.pdf), (Haoran Cheng)
 * _Feb. 15, 2022_ [Wasserstein Contrastive Representation Distillation](https://openaccess.thecvf.com/content/CVPR2021/html/Chen_Wasserstein_Contrastive_Representation_Distillation_CVPR_2021_paper.html), (Angxiao Yue)
 * _Feb. 8, 2022_ [Counterfactual Temporal Point Processes](https://arxiv.org/pdf/2111.07603.pdf), (Yutong Wang)
-* _Jan. 25, 2022_ [CAUSE: Learning Granger Causality from Event Sequences using Attribution
-Methods](https://arxiv.org/pdf/2002.07906.pdf), (Haoran Cheng)
+* _Jan. 25, 2022_ [CAUSE: Learning Granger Causality from Event Sequences using Attribution Methods](https://arxiv.org/pdf/2002.07906.pdf), (Haoran Cheng)
 * _Jan. 18, 2022_ [Self-Attentive Hawkes Process](http://proceedings.mlr.press/v119/zhang20q.html) and [Transformer Hawkes Process](https://arxiv.org/pdf/2002.09291.pdf), (Angxiao Yue)
 * _Jan. 11, 2022_ [The Neural Hawkes Process: A Neurally Self-Modulating Multivariate Point Process](https://proceedings.neurips.cc/paper/2017/file/6463c88460bd63bbe256e495c63aa40b-Paper.pdf), (Yutong Wang)
 * _Jan. 4, 2022_ [Learning Sparse Nonparametric DAGs](http://proceedings.mlr.press/v108/zheng20a/zheng20a.pdf), (Haoran Cheng)
