@@ -1,5 +1,6 @@
 # reading_list
-* _Feb. 8, 2022_ [](), (Yutong Wang)
+* _Feb. 15, 2022_ [](), ()
+* _Feb. 8, 2022_ [Counterfactual Temporal Point Processes](https://arxiv.org/pdf/2111.07603.pdf), (Yutong Wang)
 * _Jan. 25, 2022_ [CAUSE: Learning Granger Causality from Event Sequences using Attribution
 Methods](https://arxiv.org/pdf/2002.07906.pdf), (Haoran Cheng)
 * _Jan. 18, 2022_ [Self-Attentive Hawkes Process](http://proceedings.mlr.press/v119/zhang20q.html) and [Transformer Hawkes Process](https://arxiv.org/pdf/2002.09291.pdf), (Angxiao Yue)
