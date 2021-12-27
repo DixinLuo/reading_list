@@ -1,5 +1,8 @@
 # reading_list
-* _Feb. 15, 2022_ [](), ()
+* _Mar. xx, 2022_ [](), (Angxiao Yue)
+* _Mar. xx, 2022_ [](), (Yutong Wang)
+* _Feb. 22, 2022_ [](), (Haoran Cheng)
+* _Feb. 15, 2022_ [Wasserstein Contrastive Representation Distillation](https://openaccess.thecvf.com/content/CVPR2021/html/Chen_Wasserstein_Contrastive_Representation_Distillation_CVPR_2021_paper.html), (Angxiao Yue)
 * _Feb. 8, 2022_ [Counterfactual Temporal Point Processes](https://arxiv.org/pdf/2111.07603.pdf), (Yutong Wang)
 * _Jan. 25, 2022_ [CAUSE: Learning Granger Causality from Event Sequences using Attribution
 Methods](https://arxiv.org/pdf/2002.07906.pdf), (Haoran Cheng)
