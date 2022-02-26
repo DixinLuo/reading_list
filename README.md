@@ -1,7 +1,8 @@
 # reading_list
-* _Apr. , 2022_
-* _Mar. 29, 2022_ [Highly accurate protein structure prediction with AlphaFold](https://www.nature.com/articles/s41586-021-03819-2.pdf), (Zeyu Wang)
-* _Mar. 22, 2022_ [Sliced Gromov-Wasserstein](https://openreview.net/pdf?id=ByllaSHl8H), (Angxiao Yue)
+* _Apr. , 2022_ [Highly accurate protein structure prediction with AlphaFold](https://www.nature.com/articles/s41586-021-03819-2.pdf)
+* _Apr. , 2022_ [](), (Zeyu Wang)
+* _Mar. 29, 2022_ [Sliced Gromov-Wasserstein](https://openreview.net/pdf?id=ByllaSHl8H), (Haoran Cheng)
+* _Mar. 22, 2022_ [Generalized Sliced Wasserstein Distances](https://proceedings.neurips.cc/paper/2019/file/f0935e4cd5920aa6c7c996a5ee53a70f-Paper.pdf), (Angxiao Yue)
 * _Mar. 15, 2022_ [Sliced Wasserstein Distance for Learning Gaussian Mixture Models](https://openaccess.thecvf.com/content_cvpr_2018/papers/Kolouri_Sliced_Wasserstein_Distance_CVPR_2018_paper.pdf), (Yutong Wang)
 * _Mar. 08, 2022_ [Sliced and Radon Wasserstein Barycenters of Measures](https://hal.archives-ouvertes.fr/hal-00881872/document), (Haoran Cheng)
 * _Mar. 01, 2022_ [Wasserstein Contrastive Representation Distillation](https://openaccess.thecvf.com/content/CVPR2021/html/Chen_Wasserstein_Contrastive_Representation_Distillation_CVPR_2021_paper.html), (Angxiao Yue)
