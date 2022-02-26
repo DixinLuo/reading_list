@@ -1,8 +1,10 @@
 # reading_list
-* _Mar. xx, 2022_ [](), (Angxiao Yue)
-* _Mar. xx, 2022_ [](), (Yutong Wang)
-* _Mar. xx, 2022_ [Highly accurate protein structure prediction with AlphaFold](https://www.nature.com/articles/s41586-021-03819-2.pdf), (Haoran Cheng)
-* _Feb. 29, 2022_ [Wasserstein Contrastive Representation Distillation](https://openaccess.thecvf.com/content/CVPR2021/html/Chen_Wasserstein_Contrastive_Representation_Distillation_CVPR_2021_paper.html), (Angxiao Yue)
+* _Apr. , 2022_
+* _Mar. 29, 2022_ [Highly accurate protein structure prediction with AlphaFold](https://www.nature.com/articles/s41586-021-03819-2.pdf), (Zeyu Wang)
+* _Mar. 22, 2022_ [Sliced Gromov-Wasserstein](https://openreview.net/pdf?id=ByllaSHl8H), (Angxiao Yue)
+* _Mar. 15, 2022_ [Sliced Wasserstein Distance for Learning Gaussian Mixture Models](https://openaccess.thecvf.com/content_cvpr_2018/papers/Kolouri_Sliced_Wasserstein_Distance_CVPR_2018_paper.pdf), (Yutong Wang)
+* _Mar. 08, 2022_ [Sliced and Radon Wasserstein Barycenters of Measures](https://hal.archives-ouvertes.fr/hal-00881872/document), (Haoran Cheng)
+* _Mar. 01, 2022_ [Wasserstein Contrastive Representation Distillation](https://openaccess.thecvf.com/content/CVPR2021/html/Chen_Wasserstein_Contrastive_Representation_Distillation_CVPR_2021_paper.html), (Angxiao Yue)
 * _Feb. 22, 2022_ [CAUSE: Learning Granger Causality from Event Sequences using Attribution Methods](https://arxiv.org/pdf/2002.07906.pdf), (Yutong Wang)
 * _Feb. 15, 2022_ [Counterfactual Temporal Point Processes](https://arxiv.org/pdf/2111.07603.pdf) and [Counterfactual Explanations in Sequential Decision Making Under Uncertainty](https://proceedings.neurips.cc/paper/2021/file/fd0a5a5e367a0955d81278062ef37429-Paper.pdf), (Haoran Cheng)
 * _Jan. 25, 2022_ [Self-Attentive Hawkes Process](http://proceedings.mlr.press/v119/zhang20q.html) and [Transformer Hawkes Process](https://arxiv.org/pdf/2002.09291.pdf), (Angxiao Yue)
