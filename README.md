@@ -1,7 +1,7 @@
 # reading_list
 * _Apr. , 2022_ [](), 
-* _Apr. , 2022_ [Highly accurate protein structure prediction with AlphaFold](https://www.nature.com/articles/s41586-021-03819-2.pdf)
-* _Apr. , 2022_ [Generalized Sliced Wasserstein Distances](https://proceedings.neurips.cc/paper/2019/file/f0935e4cd5920aa6c7c996a5ee53a70f-Paper.pdf), (Angxiao Yue)
+* _Apr. 19, 2022_ [Causal Inference for Event Pairs in Multivariate Point Processes](https://papers.nips.cc/paper/2021/file/9078f2a8254704bd760460f027072e52-Paper.pdf), ()
+* _Apr. 12, 2022_ [Generalized Sliced Wasserstein Distances](https://proceedings.neurips.cc/paper/2019/file/f0935e4cd5920aa6c7c996a5ee53a70f-Paper.pdf), (Angxiao Yue)
 * _Mar. 29, 2022_ [Sliced Gromov-Wasserstein](https://openreview.net/pdf?id=ByllaSHl8H), (Haoran Cheng)
 * _Mar. 15, 2022_ [Sliced Wasserstein Distance for Learning Gaussian Mixture Models](https://openaccess.thecvf.com/content_cvpr_2018/papers/Kolouri_Sliced_Wasserstein_Distance_CVPR_2018_paper.pdf), (Yutong Wang)
 * _Mar. 08, 2022_ [Sliced and Radon Wasserstein Barycenters of Measures](https://hal.archives-ouvertes.fr/hal-00881872/document), (Haoran Cheng)
