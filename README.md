@@ -1,6 +1,6 @@
 # reading_list
 * _Aug. , 2022_ [](), 
-* _Aug. 2, 2022_ [Learning Discriminative Prototypes with Dynamic Time Warping]([https://papers.nips.cc/paper/2021/file/9078f2a8254704bd760460f027072e52-Paper.pdf](https://openaccess.thecvf.com/content/CVPR2021/papers/Chang_Learning_Discriminative_Prototypes_With_Dynamic_Time_Warping_CVPR_2021_paper.pdf), (Yutong Wang)
+* _Aug. 2, 2022_ [Learning Discriminative Prototypes with Dynamic Time Warping](https://openaccess.thecvf.com/content/CVPR2021/papers/Chang_Learning_Discriminative_Prototypes_With_Dynamic_Time_Warping_CVPR_2021_paper.pdf), (Yutong Wang)
 * _May. 24, 2022_ [Generalized Sliced Wasserstein Distances](https://proceedings.neurips.cc/paper/2019/file/f0935e4cd5920aa6c7c996a5ee53a70f-Paper.pdf), (Angxiao Yue)
 * _Apr. 26, 2022_ [Sliced Gromov-Wasserstein](https://openreview.net/pdf?id=ByllaSHl8H), (Haoran Cheng)
 * _Mar. 15, 2022_ [Sliced Wasserstein Distance for Learning Gaussian Mixture Models](https://openaccess.thecvf.com/content_cvpr_2018/papers/Kolouri_Sliced_Wasserstein_Distance_CVPR_2018_paper.pdf), (Yutong Wang)
