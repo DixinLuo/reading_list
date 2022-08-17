@@ -1,4 +1,12 @@
 # reading_list
+* _Dec. 0, 2022_ [](), ()
+* _Nov. 0, 2022_ [](), ()
+* _Oct. 0, 2022_ [](), ()
+* _Sep. , 2022_ [](), ()
+* _Sep. , 2022_ [](), ()
+* _Sep. 6, 2022_ [High-Fidelity Human Avatars From a Single RGB Camera](https://openaccess.thecvf.com/content/CVPR2022/html/Zhao_High-Fidelity_Human_Avatars_From_a_Single_RGB_Camera_CVPR_2022_paper.html), (Haotian Liu)
+* _Aug. 30, 2022_ [REGAL: Representation Learning-based Graph Alignment](https://dl.acm.org/doi/pdf/10.1145/3269206.3271788), (Qingbin Li)
+* _Aug. 16, 2022_ [Hierarchical Generation of Molecular Graphs using Structural Motifs](https://proceedings.mlr.press/v119/jin20a.html), (Angxiao Yue)
 * _Aug. 09, 2022_ [Wasserstein Embedding for Graph Learning](https://arxiv.org/abs/2006.09430), (Haoran Cheng)
 * _Aug. 02, 2022_ [Learning Discriminative Prototypes with Dynamic Time Warping](https://openaccess.thecvf.com/content/CVPR2021/papers/Chang_Learning_Discriminative_Prototypes_With_Dynamic_Time_Warping_CVPR_2021_paper.pdf), (Yutong Wang)
 * _May. 24, 2022_ [Generalized Sliced Wasserstein Distances](https://proceedings.neurips.cc/paper/2019/file/f0935e4cd5920aa6c7c996a5ee53a70f-Paper.pdf), (Angxiao Yue)
