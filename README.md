@@ -3,7 +3,7 @@
 * _Nov. 0, 2022_ [](), ()
 * _Oct. 0, 2022_ [](), ()
 * _Sep. , 2022_ [](), ()
-* _Sep. , 2022_ [](), ()
+* _Sep. , 2022_ [Neural Head Avatars from Monocular RGB Videos](https://openaccess.thecvf.com/content/CVPR2022/papers/Grassal_Neural_Head_Avatars_From_Monocular_RGB_Videos_CVPR_2022_paper.pdf), (Jiayi Liang)
 * _Sep. 6, 2022_ [High-Fidelity Human Avatars From a Single RGB Camera](https://openaccess.thecvf.com/content/CVPR2022/html/Zhao_High-Fidelity_Human_Avatars_From_a_Single_RGB_Camera_CVPR_2022_paper.html), (Haotian Liu)
 * _Aug. 30, 2022_ [REGAL: Representation Learning-based Graph Alignment](https://dl.acm.org/doi/pdf/10.1145/3269206.3271788), (Qingbin Li)
 * _Aug. 16, 2022_ [Hierarchical Generation of Molecular Graphs using Structural Motifs](https://proceedings.mlr.press/v119/jin20a.html), (Angxiao Yue)
