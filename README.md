@@ -1,6 +1,6 @@
 # reading_list
 * _Dec. 0, 2022_ [](), ()
-* _Nov. 28, 2022_ [](), ()
+* _Nov. 28, 2022_ [Diffusion Normalizing Flow](https://proceedings.neurips.cc/paper/2021/hash/876f1f9954de0aa402d91bb988d12cd4-Abstract.html), (Haotian Liu)
 * _Nov. 21, 2022_ [Joint Visual and Audio Learning for Video Highlight Detection](https://openaccess.thecvf.com/content/ICCV2021/papers/Badamdorj_Joint_Visual_and_Audio_Learning_for_Video_Highlight_Detection_ICCV_2021_paper.pdf) and [Contrastive Learning for Unsupervised Video Highlight Detection](https://openaccess.thecvf.com/content/CVPR2022/papers/Badamdorj_Contrastive_Learning_for_Unsupervised_Video_Highlight_Detection_CVPR_2022_paper.pdf), (Sidan Zhu)
 * _Nov. 14, 2022_ [Reinforcement Learning for Flexibility Design Problems](https://arxiv.org/pdf/2101.00355.pdf), (Tingting Yu)
 * _Nov. 7, 2022_ [Towards Accurate Facial Landmark Detection via Cascaded Transformers](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Towards_Accurate_Facial_Landmark_Detection_via_Cascaded_Transformers_CVPR_2022_paper.html), (Jiayi Liang)
