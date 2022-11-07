@@ -2,7 +2,7 @@
 * _Dec. 0, 2022_ [](), ()
 * _Nov. 28, 2022_ [](), ()
 * _Nov. 21, 2022_ [](), ()
-* _Nov. 14, 2022_ [](), ()
+* _Nov. 14, 2022_ [Reinforcement Learning for Flexibility Design Problems](https://arxiv.org/pdf/2101.00355.pdf), (Tingting Yu)
 * _Nov. 7, 2022_ [Towards Accurate Facial Landmark Detection via Cascaded Transformers](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Towards_Accurate_Facial_Landmark_Detection_via_Cascaded_Transformers_CVPR_2022_paper.html), (Jiayi Liang)
 * _Oct. 24, 2022_ [Tree Mover’s Distance: Bridging Graph Metrics and Stability of Graph Neural Networks](https://arxiv.org/pdf/2210.01906.pdf), (Angxiao Yue)
 * _Oct. 17, 2022_ [Unbalanced Multi-Marginal Optimal Transport](https://arxiv.org/pdf/2103.10854.pdf), (Qingbin Li)
