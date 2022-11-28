@@ -5,7 +5,7 @@
 * _Dec. 0, 2022_ [](), ()
 * _Dec. 0, 2022_ [](), ()
 * _Dec. 0, 2022_ [](), ()
-* _Dec. 0, 2022_ [](), ()
+* _Dec. 5-19, 2022_ [The award-winning papers for NeurIPS 2022](https://blog.neurips.cc/2022/11/21/announcing-the-neurips-2022-awards), (Haoran Cheng, Yutong Wang, and Angxiao Yue)
 * _Nov. 28, 2022_ [Diffusion Normalizing Flow](https://proceedings.neurips.cc/paper/2021/hash/876f1f9954de0aa402d91bb988d12cd4-Abstract.html), (Haotian Liu)
 * _Nov. 21, 2022_ [Joint Visual and Audio Learning for Video Highlight Detection](https://openaccess.thecvf.com/content/ICCV2021/papers/Badamdorj_Joint_Visual_and_Audio_Learning_for_Video_Highlight_Detection_ICCV_2021_paper.pdf) and [Contrastive Learning for Unsupervised Video Highlight Detection](https://openaccess.thecvf.com/content/CVPR2022/papers/Badamdorj_Contrastive_Learning_for_Unsupervised_Video_Highlight_Detection_CVPR_2022_paper.pdf), (Sidan Zhu)
 * _Nov. 14, 2022_ [Reinforcement Learning for Flexibility Design Problems](https://arxiv.org/pdf/2101.00355.pdf), (Tingting Yu)
