@@ -7,7 +7,7 @@
 * _May. 0, 2023_ [](), ()
 * _Apr. 24, 2023_ [](), ()
 * _Apr. 17, 2023_ [](), ()
-* _Apr. 10, 2023_ [DAG LEARNING ON THE PERMUTAHEDRON](https://arxiv.org/pdf/2301.11898.pdf), (Tingting Yu)
+* _Apr. 10, 2023_ [DAG Learning on the Permutahedron](https://arxiv.org/pdf/2301.11898.pdf), (Tingting Yu)
 * _Apr. 3, 2023_ [Learning Discrete Directed Acyclic Graphs via Backpropagation](https://arxiv.org/pdf/2210.15353.pdf), (Haoran Cheng)
 * _Mar. 28, 2023_ [Multi-Modal Experience Inspired AI Creation](https://arxiv.org/pdf/2209.02427.pdf), (Jiayi Liang)
 * _Mar. 21, 2023_ [The Monge Gap: A Regularizer to Learn All Transport Maps](https://arxiv.org/pdf/2302.04953.pdf), (Sidan Zhu)
