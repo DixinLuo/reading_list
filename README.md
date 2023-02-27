@@ -5,7 +5,7 @@
 * _Jul. 0, 2023_ [](), ()
 * _Jun. 0, 2023_ [](), ()
 * _May. 0, 2023_ [](), ()
-* _Apr. 24, 2023_ [](), ()
+* _Apr. 24, 2023_ [Multi-domain image generation and translation with identifiability guarantees](https://openreview.net/forum?id=U2g8OGONA_V), (Haotian Liu)
 * _Apr. 17, 2023_ [PLOT: Prompt Learning with Optimal Transport for Vision-Language Models](https://arxiv.org/pdf/2210.01253.pdf), (Sidan Zhu)
 * _Apr. 10, 2023_ [DAG Learning on the Permutahedron](https://arxiv.org/pdf/2301.11898.pdf), (Tingting Yu)
 * _Apr. 3, 2023_ [Learning Discrete Directed Acyclic Graphs via Backpropagation](https://arxiv.org/pdf/2210.15353.pdf), (Haoran Cheng)
