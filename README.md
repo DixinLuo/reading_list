@@ -8,7 +8,7 @@
 * _Apr. 24, 2023_ [](), ()
 * _Apr. 17, 2023_ [](), ()
 * _Apr. 10, 2023_ [](), ()
-* _Apr. 3, 2023_ [](), ()
+* _Apr. 3, 2023_ [Learning Discrete Directed Acyclic Graphs via Backpropagation](https://arxiv.org/pdf/2210.15353.pdf), (Haoran Cheng)
 * _Mar. 28, 2023_ [Multi-Modal Experience Inspired AI Creation](https://arxiv.org/pdf/2209.02427.pdf), (Jiayi Liang)
 * _Mar. 21, 2023_ [The Monge Gap: A Regularizer to Learn All Transport Maps](https://arxiv.org/pdf/2302.04953.pdf), (Sidan Zhu)
 * _Mar. 14, 2023_ [Monge, Bregman and Occam: Interpretable Optimal Transport in High-Dimensions with Feature-Sparse Maps](https://arxiv.org/pdf/2302.04065.pdf), (Yutong Wang)
