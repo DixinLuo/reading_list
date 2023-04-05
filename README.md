@@ -5,7 +5,7 @@
 * _Jul. 0, 2023_ [](), ()
 * _Jun. 0, 2023_ [](), ()
 * _May. 29, 2023_ [](), ()
-* _May. 22, 2023_ [Time Series Alignment with Global Invariances](https://arxiv.org/pdf/2002.03848.pdf), (Yutong )
+* _May. 22, 2023_ [Time Series Alignment with Global Invariances](https://arxiv.org/pdf/2002.03848.pdf), (Yutong Wang)
 * _May. 15, 2023_ [PLOT: Prompt Learning with Optimal Transport for Vision-Language Models](https://arxiv.org/pdf/2210.01253.pdf), (Sidan Zhu)
 * _May. 8, 2023_ [Multi-domain image generation and translation with identifiability guarantees](https://openreview.net/forum?id=U2g8OGONA_V), (Haotian Liu)
 * _Apr. 24, 2023_ [Graph Alignment Kernels using Weisfeiler and Leman Hierarchies](https://www.lix.polytechnique.fr/~nikolentzos/files/gawl_aistats23.pdf), (Tingting Yu)
