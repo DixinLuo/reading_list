@@ -6,7 +6,7 @@
 * _Sep. 0, 2023_ [](), ()
 * _Aug. 0, 2023_ [](), ()
 * _Jul. 0, 2023_ [](), ()
-* _Jul. 0, 2023_ [](), ()
+* _Jul. 0, 2023_ [SMURF-THP: Score Matching-based UnceRtainty quantiFication for Transformer Hawkes Process](https://openreview.net/pdf?id=ZeEkuTENLH), (Haoran Cheng)
 * _Aug. , 2023_ [SNEkhorn: Dimension Reduction with Symmetric Entropic Affinities](https://arxiv.org/pdf/2305.13797.pdf), (Tingting Yu)
 * _Jul. 31, 2023_ [Partial Optimal Transport with applications on Positive-Unlabeled Learning](https://proceedings.neurips.cc/paper/2020/hash/1e6e25d952a0d639b676ee20d0519ee2-Abstract.html) and [Semi-relaxed Gromov-Wasserstein divergence with applications on graphs](https://arxiv.org/pdf/2110.02753.pdf), (Haoran Cheng)
 * _Jul. 24, 2023_ [PosterLayout: A New Benchmark and Approach for Content-aware Visual-Textual Presentation Layout](https://arxiv.org/abs/2303.15937), (Sidan Zhu)
