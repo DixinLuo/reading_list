@@ -2,7 +2,7 @@
 * _. 0, 2023_ [](), ()
 * _. 0, 2023_ [](), ()
 * _. 0, 2023_ [](), ()
-* _. 0, 2023_ [](), ()
+* _Dec. 28, 2023_ [Learning Temporal Rules from Noisy Timeseries Data](https://arxiv.org/abs/2202.05403), (Bohan Zhang)
 * _Dec. 21, 2023_ [Efficient Discrete Multi Marginal Optimal Transport Regularization](https://openreview.net/forum?id=R98ZfMt-jE), (Tingting Yu)
 * _Dec. 14, 2023_ [SMURF-THP: Score Matching-based UnceRtainty quantiFication for Transformer Hawkes Process](https://openreview.net/pdf?id=ZeEkuTENLH), (Haoran Cheng)
 * _Dec. 7, 2023_ [Transformer Fusion with Optimal Transport](https://arxiv.org/pdf/2310.05719.pdf), (Bohan Zhang)
