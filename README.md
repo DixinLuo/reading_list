@@ -1,6 +1,8 @@
 # reading_list
-* _. 0, 2023_ [](), ()
-* _. 0, 2023_ [](), ()
+* _. 0, 2024_ [](), ()
+* _. 0, 2024_ [](), ()
+* _. 0, 2024_ [](), ()
+* _. 0, 2024_ [](), ()
 * _Jan. 11, 2024_ [Efficient LLM Inference on CPUs](https://arxiv.org/pdf/2311.00502.pdf), (Haotian Liu)
 * _Jan. 4, 2024_ [Learning Temporal Rules from Noisy Timeseries Data](https://arxiv.org/abs/2202.05403), (Bohan Zhang)
 * _Dec. 28, 2023_ [Efficient Discrete Multi Marginal Optimal Transport Regularization](https://openreview.net/forum?id=R98ZfMt-jE), (Tingting Yu)
