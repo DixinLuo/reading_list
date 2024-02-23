@@ -1,7 +1,10 @@
 # reading_list
 * _. 0, 2024_ [](), ()
 * _. 0, 2024_ [](), ()
-* _Mar. 4, 2024_ [AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling](https://arxiv.org/pdf/2402.12226.pdf), (Haoran Cheng)
+* _. 0, 2024_ [](), ()
+* _Mar. 18&25, 2024_ [AI Alignment: A Comprehensive Survey](https://arxiv.org/pdf/2310.19852.pdf), (Bohan Zhang)
+* _Mar. 11, 2024_ [AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling](https://arxiv.org/pdf/2402.12226.pdf), (Sidan Zhu)
+* _Mar. 4, 2024_ [Empowering Time Series Analysis with Large Language Models: A Survey](https://arxiv.org/pdf/2402.03182.pdf), (Haoran Cheng)
 * _Jan. 25, 2024_ [Visual Programming: Compositional Visual Reasoning Without Training](https://openaccess.thecvf.com/content/CVPR2023/html/Gupta_Visual_Programming_Compositional_Visual_Reasoning_Without_Training_CVPR_2023_paper.html), (Yutong Wang)
 * _Jan. 18, 2024_ [Efficient LLM Inference on CPUs](https://arxiv.org/pdf/2311.00502.pdf), (Bohan Zhang)
 * _Jan. 11, 2024_ [Lego-Prover: Neural Theorem Proving With Growing Libraries](https://arxiv.org/pdf/2310.00656.pdf), (Haotian Liu)
