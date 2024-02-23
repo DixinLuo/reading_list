@@ -1,7 +1,7 @@
 # reading_list
 * _. 0, 2024_ [](), ()
 * _. 0, 2024_ [](), ()
-* _. 0, 2024_ [](), ()
+* _Apr. 1, 2024_ [MP5: A Multi-modal Open-ended Embodied System in Minecraft via Active Perception](https://iranqin.github.io/MP5.github.io), (Tingting Yu)
 * _Mar. 18&25, 2024_ [AI Alignment: A Comprehensive Survey](https://arxiv.org/pdf/2310.19852.pdf), (Bohan Zhang)
 * _Mar. 11, 2024_ [AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling](https://arxiv.org/pdf/2402.12226.pdf), (Sidan Zhu)
 * _Mar. 4, 2024_ [Empowering Time Series Analysis with Large Language Models: A Survey](https://arxiv.org/pdf/2402.03182.pdf), (Haoran Cheng)
