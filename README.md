@@ -1,5 +1,8 @@
 # reading_list
 * _. 0, 2024_ [](), ()
+* _. 0, 2024_ [](), ()
+* _. 0, 2024_ [](), ()
+* _May. 6, 2024_ [Integration-free Training for Spatio-temporal Multimodal Covariate Deep Kernel Point Processes](https://papers.nips.cc/paper_files/paper/2023/hash/4eb2c0adafbe71269f3a772c130f9e53-Abstract-Conference.html), (Bohan Zhang)
 * _Apr. 29, 2024_ [Video Timeline Modeling For News Story Understanding](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5a0f92efaa8f0cd67992caf6b2fa2bac-Abstract-Datasets_and_Benchmarks.html), (Sidan Zhu)
 * _Apr. 15&22, 2024_ [A Survey of Geometric Graph Neural Networks: Data Structures, Models and Applications](https://arxiv.org/abs/2403.00485), (Tingting Yu)
 * _Mar. 18&25, 2024_ [AI Alignment: A Comprehensive Survey](https://arxiv.org/pdf/2310.19852.pdf), (Bohan Zhang)
