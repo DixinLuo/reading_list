@@ -1,8 +1,9 @@
 # reading_list
 * _. 0, 2024_ [](), ()
 * _. 0, 2024_ [](), ()
-* _. 0, 2024_ [](), ()
-* _May. 13, 2024_ [FOCAL: Contrastive Learning for Multimodal Time-Series Sensing Signals in Factorized Orthogonal Latent Space](https://papers.nips.cc/paper_files/paper/2023/hash/93e98ddf39a9beb0a97fbbe56a986c80-Abstract-Conference.html), (Bohan Zhang)
+* _May. 27, 2024_ [4M: Massively Multimodal Masked Modeling](https://papers.nips.cc/paper_files/paper/2023/hash/b6446566965fa38e183650728ab70318-Abstract-Conference.html), (Tingting Yu)
+* _May. 20, 2024_ [FOCAL: Contrastive Learning for Multimodal Time-Series Sensing Signals in Factorized Orthogonal Latent Space](https://papers.nips.cc/paper_files/paper/2023/hash/93e98ddf39a9beb0a97fbbe56a986c80-Abstract-Conference.html), (Bohan Zhang)
+* _May. 13, 2024_ [A Theory of Multimodal Learning](https://papers.nips.cc/paper_files/paper/2023/hash/b316495425d076b4abffc065a64c2cca-Abstract-Conference.html), (Yutong Wang)
 * _May. 6, 2024_ [Integration-free Training for Spatio-temporal Multimodal Covariate Deep Kernel Point Processes](https://papers.nips.cc/paper_files/paper/2023/hash/4eb2c0adafbe71269f3a772c130f9e53-Abstract-Conference.html), (Haoran Cheng)
 * _Apr. 29, 2024_ [Video Timeline Modeling For News Story Understanding](https://proceedings.neurips.cc/paper_files/paper/2023/hash/5a0f92efaa8f0cd67992caf6b2fa2bac-Abstract-Datasets_and_Benchmarks.html), (Sidan Zhu)
 * _Apr. 15&22, 2024_ [A Survey of Geometric Graph Neural Networks: Data Structures, Models and Applications](https://arxiv.org/abs/2403.00485), (Tingting Yu)
