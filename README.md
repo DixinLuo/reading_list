@@ -1,7 +1,7 @@
 # reading_list
 * _. 0, 2024_ [](), ()
-* _Jun. 25, 2024_ [Scaling Laws for Data Filtering -- Data Curation cannot be Compute Agnostic](https://arxiv.org/abs/2404.07177), (Bohan Zhang)
-* _Jun. 18, 2024_ [4M: Massively Multimodal Masked Modeling](https://papers.nips.cc/paper_files/paper/2023/hash/b6446566965fa38e183650728ab70318-Abstract-Conference.html), (Tingting Yu)
+* _Jul. 15, 2024_ [Scaling Laws for Data Filtering -- Data Curation cannot be Compute Agnostic](https://arxiv.org/abs/2404.07177), (Bohan Zhang)
+* _Jul. 8, 2024_ [4M: Massively Multimodal Masked Modeling](https://papers.nips.cc/paper_files/paper/2023/hash/b6446566965fa38e183650728ab70318-Abstract-Conference.html), (Tingting Yu)
 * _Jun. 11, 2024_ [FOCAL: Contrastive Learning for Multimodal Time-Series Sensing Signals in Factorized Orthogonal Latent Space](https://papers.nips.cc/paper_files/paper/2023/hash/93e98ddf39a9beb0a97fbbe56a986c80-Abstract-Conference.html), (Bohan Zhang)
 * _Jun. 4, 2024_ [A Theory of Multimodal Learning](https://papers.nips.cc/paper_files/paper/2023/hash/b316495425d076b4abffc065a64c2cca-Abstract-Conference.html), (Yutong Wang)
 * _May. 21, 2024_ [Integration-free Training for Spatio-temporal Multimodal Covariate Deep Kernel Point Processes](https://papers.nips.cc/paper_files/paper/2023/hash/4eb2c0adafbe71269f3a772c130f9e53-Abstract-Conference.html), (Haoran Cheng)
