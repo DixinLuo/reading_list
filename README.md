@@ -1,8 +1,10 @@
 # reading_list
-* _Aug. 19, 2024_ [](), ()
-* _Aug. 12, 2024_ [](), ()
+* _Sep. , 2024_ [](), ()
+* _Sep. , 2024_ [](), ()
+* _Sep. , 2024_ [](), ()
+* _Sep. 9, 2024_ [Task-Driven Exploration: Decoupling and Inter-Task Feedback for Joint Moment Retrieval and Highlight Detection](https://openaccess.thecvf.com/content/CVPR2024/html/Yang_Task-Driven_Exploration_Decoupling_and_Inter-Task_Feedback_for_Joint_Moment_Retrieval_CVPR_2024_paper.html), (Sidan Zhu)
 * _Jul. 29, 2024_ [Rethinking Benchmarks for Cross-modal Image-text Retrieval](https://dl.acm.org/doi/abs/10.1145/3539618.3591758?casa_token=159CQgtWd8YAAAAA:tlPubgCVZJTuLrdgX2kHPtvbUWuBy3-bLN9SyHjan5lJncLOB0g0JWfEDFZxf42rMUEg3TjZsxDetQI), (Xinran Niu)
-* _Jul. 22, 2024_ [Bridging the Gap: A Unified Video Comprehension Framework for Moment Retrieval and Highlight Detection](https://openaccess.thecvf.com/content/CVPR2024/html/Xiao_Bridging_the_Gap_A_Unified_Video_Comprehension_Framework_for_Moment_CVPR_2024_paper.html), [Task-Driven Exploration: Decoupling and Inter-Task Feedback for Joint Moment Retrieval and Highlight Detection](https://openaccess.thecvf.com/content/CVPR2024/html/Yang_Task-Driven_Exploration_Decoupling_and_Inter-Task_Feedback_for_Joint_Moment_Retrieval_CVPR_2024_paper.html), (Sidan Zhu)
+* _Jul. 22, 2024_ [Bridging the Gap: A Unified Video Comprehension Framework for Moment Retrieval and Highlight Detection](https://openaccess.thecvf.com/content/CVPR2024/html/Xiao_Bridging_the_Gap_A_Unified_Video_Comprehension_Framework_for_Moment_CVPR_2024_paper.html), (Sidan Zhu)
 * _Jul. 15, 2024_ [Scaling Laws for Data Filtering -- Data Curation cannot be Compute Agnostic](https://arxiv.org/abs/2404.07177), (Bohan Zhang)
 * _Jul. 8, 2024_ [4M: Massively Multimodal Masked Modeling](https://papers.nips.cc/paper_files/paper/2023/hash/b6446566965fa38e183650728ab70318-Abstract-Conference.html), (Tingting Yu)
 * _Jun. 11, 2024_ [FOCAL: Contrastive Learning for Multimodal Time-Series Sensing Signals in Factorized Orthogonal Latent Space](https://papers.nips.cc/paper_files/paper/2023/hash/93e98ddf39a9beb0a97fbbe56a986c80-Abstract-Conference.html), (Bohan Zhang)
