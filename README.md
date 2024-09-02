@@ -6,7 +6,7 @@
 * _Nov. 7, 2024_ [Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper than In-Context Learning](https://proceedings.neurips.cc/paper_files/paper/2022/hash/0cde695b83bd186c1fd456302888454c-Abstract-Conference.html), (Haoran Cheng)
 * _Oct. 24, 2024_ [Bridging The Gap between Low-rank and Orthogonal Adaptation via Householder Reflection Adaptation](https://arxiv.org/abs/2405.17484), (Bohan Zhang)
 * _Oct. 17, 2024_ [When MOE Meets LLMs: Parameter Efficient Fine-tuning for Multi-task Medical Applications](https://dl.acm.org/doi/pdf/10.1145/3626772.3657722), (Xinran Niu)
-* _Sep. 26&Oct. 10, 2024_ [Parameter-Efficient Fine-Tuning for Large Models:A Comprehensive Survey](https://arxiv.org/pdf/2403.14608), (Xinran Niu)
+* _Sep. 26&Oct. 10, 2024_ [Parameter-Efficient Fine-Tuning for Large Models: A Comprehensive Survey](https://arxiv.org/pdf/2403.14608), (Xinran Niu)
 * _Sep. 19, 2024_ [Review for CVPR 2024](https://openaccess.thecvf.com/CVPR2024), (Jiayi Liang)
 * _Sep. 12, 2024_ [Task-Driven Exploration: Decoupling and Inter-Task Feedback for Joint Moment Retrieval and Highlight Detection](https://openaccess.thecvf.com/content/CVPR2024/html/Yang_Task-Driven_Exploration_Decoupling_and_Inter-Task_Feedback_for_Joint_Moment_Retrieval_CVPR_2024_paper.html), (Sidan Zhu)
 * _Jul. 29, 2024_ [Rethinking Benchmarks for Cross-modal Image-text Retrieval](https://dl.acm.org/doi/abs/10.1145/3539618.3591758?casa_token=159CQgtWd8YAAAAA:tlPubgCVZJTuLrdgX2kHPtvbUWuBy3-bLN9SyHjan5lJncLOB0g0JWfEDFZxf42rMUEg3TjZsxDetQI), (Xinran Niu)
