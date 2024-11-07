@@ -1,8 +1,8 @@
 # reading_list
 * _Jan. , 2025_ [](), ()
 * _Dec. , 2024_ [](), ()
-* _Nov. , 2024_ [](), ()
-* _Nov. 21, 2024_ [](), ()
+* _Dec. , 2024_ [](), ()
+* _Nov. 28, 2024_ [UniHuman: A Unified Model For Editing Human Images in the Wild](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_UniHuman_A_Unified_Model_For_Editing_Human_Images_in_the_CVPR_2024_paper.pdf), (Bohan Zhang)
 * _Nov. 21, 2024_ [Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper than In-Context Learning](https://proceedings.neurips.cc/paper_files/paper/2022/hash/0cde695b83bd186c1fd456302888454c-Abstract-Conference.html), (Haoran Cheng)
 * _Nov. 14, 2024_ [Bridging The Gap between Low-rank and Orthogonal Adaptation via Householder Reflection Adaptation](https://arxiv.org/abs/2405.17484), (Bohan Zhang)
 * _Nov. 7, 2024_ [When MOE Meets LLMs: Parameter Efficient Fine-tuning for Multi-task Medical Applications](https://dl.acm.org/doi/pdf/10.1145/3626772.3657722), (Xinran Niu)
