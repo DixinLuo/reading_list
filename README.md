@@ -3,7 +3,7 @@
 * _Jan. 9, 2025_ [](), ()
 * _Jan. 2, 2025_ [](), ()
 * _Dec. 26, 2024_ [](), ()
-* _Dec. 19, 2024_ [](), ()
+* _Dec. 19, 2024_ [Scaling In-the-Wild Training for Diffusion-based Illumination Harmonization and Editing by Imposing Consistent Light Transport](https://openreview.net/forum?id=u1cQYxRI1H), (Jiaxin Zhang)
 * _Dec. 11, 2024_ [Momentum Contrast for Unsupervised Visual Representation Learning](https://openaccess.thecvf.com/content_CVPR_2020/html/He_Momentum_Contrast_for_Unsupervised_Visual_Representation_Learning_CVPR_2020_paper.html), (Sidan Zhu)
 * _Dec. 5, 2024_ [Learning A Causation-driven Retrieval Model for Robust Time Series Augmentation and Forecasting](), (Bohan Zhang)
 * _Nov. 28, 2024_ [UniHuman: A Unified Model For Editing Human Images in the Wild](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_UniHuman_A_Unified_Model_For_Editing_Human_Images_in_the_CVPR_2024_paper.pdf), (Jiaxin Zhang)
