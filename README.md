@@ -1,8 +1,8 @@
 # reading_list
 * _Jan. 16, 2025_ [](), ()
 * _Jan. 9, 2025_ [](), ()
-* _Jan. 2, 2025_ [Multimodal Autoregressive Pre-training of Large Vision Encoders](https://arxiv.org/pdf/2411.14402), (Shihang Xia)
-* _Dec. 26, 2024_ [Compositional Entailment Learning for Hyperbolic Vision-Language Models](https://openreview.net/forum?id=3i13Gev2hV), (Bohan Zhang)
+* _Jan. 2, 2025_ [Compositional Entailment Learning for Hyperbolic Vision-Language Models](https://openreview.net/forum?id=3i13Gev2hV), (Bohan Zhang)
+* _Dec. 26, 2024_ [Multimodal Autoregressive Pre-training of Large Vision Encoders](https://arxiv.org/pdf/2411.14402), (Shihang Xia)
 * _Dec. 19, 2024_ [Scaling In-the-Wild Training for Diffusion-based Illumination Harmonization and Editing by Imposing Consistent Light Transport](https://openreview.net/forum?id=u1cQYxRI1H), (Jiaxin Zhang)
 * _Dec. 11, 2024_ [Momentum Contrast for Unsupervised Visual Representation Learning](https://openaccess.thecvf.com/content_CVPR_2020/html/He_Momentum_Contrast_for_Unsupervised_Visual_Representation_Learning_CVPR_2020_paper.html), (Sidan Zhu)
 * _Dec. 5, 2024_ [Learning A Causation-driven Retrieval Model for Robust Time Series Augmentation and Forecasting](), (Bohan Zhang)
