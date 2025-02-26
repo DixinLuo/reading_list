@@ -4,7 +4,7 @@
 * _Apr. , 2025_ [](), ()
 * _Apr. 10, 2025_ [](), ()
 * _Mar. 31, 2025_ [](), ()
-* _Mar. 24, 2025_ [](), ()
+* _Mar. 24, 2025_ [Fractal Generative Models](https://arxiv.org/pdf/2502.17437), (Xinran Niu)
 * _Mar. 17, 2025_ [TiVA: Time-Aligned Video-to-Audio Generation](https://openreview.net/pdf?id=tIpOYtxerl), (Shihang Xia)
 * _Mar. 3&10, 2025_ [Rectified Flow](https://www.cs.utexas.edu/~lqiang/rectflow/html/intro.html) ([Let us Flow Together](https://www.cs.utexas.edu/~lqiang/PDF/flow_book.pdf), [Flow Straight and Fast](https://arxiv.org/pdf/2209.03003)), (Bohan Zhang)
 * _Feb. 24, 2025_ [Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction](https://openreview.net/forum?id=gojL67CfS8), (Tingting Yu)
