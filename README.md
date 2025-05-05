@@ -9,7 +9,7 @@
 * _Jun. 9, 2025_ [MDAgents: An Adaptive Collaboration of LLMs for Medical Decision-Making](https://neurips.cc/virtual/2024/oral/97988), (Xinran Niu)
 * _May. 26, 2025_ [CAT3D: Create Anything in 3D with Multi-View Diffusion Models](https://neurips.cc/virtual/2024/oral/97975), (Jiaxin Zhang)
 * _May. 19, 2025_ [NeuroClips: Towards High-fidelity and Smooth fMRI-to-Video Reconstruction](https://neurips.cc/virtual/2024/oral/97992), (Shihang Xia)
-* _May. 12, 2025_ [](), (Sidan Zhu)
+* _May. 12, 2025_ [GoT: Unleashing Reasoning Capability of Multimodal Large Language Model for Visual Generation and Editing](https://github.com/rongyaofang/GoT), (Sidan Zhu)
 * _Apr. 21, 2025_ [ETCH: Generalizing Body Fitting to Clothed Humans via Equivariant Tightness](https://arxiv.org/pdf/2503.10624), (Jiaxin Zhang)
 * _Apr. 14, 2025_ [Return of Unconditional Generation: A Self-supervised Representation Generation Method](https://neurips.cc/virtual/2024/oral/97963), (Shihang Xia)
 * _Apr. 7, 2025_ [DreamFusion: Text-to-3D using 2D Diffusion](https://dreamfusion3d.github.io/), (Bohan Zhang)
