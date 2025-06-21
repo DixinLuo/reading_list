@@ -1,10 +1,10 @@
 # reading_list
 * _. , 2025_ [](), ()
-* _. , 2025_ [](), ()
+* _. , 2025_ [Reconstructing Humans with a Biomechanically Accurate Skeleton](https://openaccess.thecvf.com/content/CVPR2025/papers/Xia_Reconstructing_Humans_with_a_Biomechanically_Accurate_Skeleton_CVPR_2025_paper.pdf), (Shihang Xia)
 * _Aug. , 2025_ [](), ()
 * _Jul. 28, 2025_ [](), ()
 * _Jul. 21, 2025_ [](), ()
-* _Jul. 15, 2025_ [Reconstructing Humans with a Biomechanically Accurate Skeleton](https://openaccess.thecvf.com/content/CVPR2025/papers/Xia_Reconstructing_Humans_with_a_Biomechanically_Accurate_Skeleton_CVPR_2025_paper.pdf), (Shihang Xia)
+* _Jul. 15, 2025_ [](), (Sidan Zhu)
 * _Jul. 7, 2025_ [Improved Distribution Matching Distillation for Fast Image Synthesis](https://neurips.cc/virtual/2024/oral/97949), (Bohan Zhang)
 * _Jun. 9, 2025_ [MDAgents: An Adaptive Collaboration of LLMs for Medical Decision-Making](https://neurips.cc/virtual/2024/oral/97988), (Xinran Niu)
 * _May. 26, 2025_ [CAT3D: Create Anything in 3D with Multi-View Diffusion Models](https://neurips.cc/virtual/2024/oral/97975), (Jiaxin Zhang)
