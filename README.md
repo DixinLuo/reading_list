@@ -3,7 +3,7 @@
 * _. , 2025_ [](), ()
 * _. , 2025_ [](), ()
 * _. , 2025_ [](), ()
-* _. , 2025_ [](), ()
+* _Nov. 12, 2025_ [VACE: All-in-One Video Creation and Editing](https://github.com/ali-vilab/VACE), (Jiaxin Zhang)
 * _Nov. 5, 2025_ [Timestep Embedding Tells: It’s Time to Cache for Video Diffusion Model](https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_Timestep_Embedding_Tells_Its_Time_to_Cache_for_Video_Diffusion_CVPR_2025_paper.pdf), (Tingting Yu)
 * _Oct. 29, 2025_ [POT: Prototypical Optimal Transport for Weakly Supervised Semantic Segmentation](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_POT_Prototypical_Optimal_Transport_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2025_paper.pdf), (Xinran Niu)
 * _Oct. 22, 2025_ [Improved Distribution Matching Distillation for Fast Image Synthesis](https://neurips.cc/virtual/2024/oral/97949), (Shihang Xia)
