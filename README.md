@@ -1,8 +1,8 @@
 # reading_list
 * _. , 2025_ [](), ()
 * _. , 2025_ [](), ()
-* _Dec. 10, 2025_ [Agentic Design of Compositional Machines](https://arxiv.org/abs/2510.14980), (Shihang Xia)
-* _Dec. 3, 2025_ [BuildArena: A Physics-Aligned Interactive Benchmark of LLMs for Engineering Construction](https://build-arena.github.io/), (Sidan Zhu)
+* _Dec. 8, 2025_ [Agentic Design of Compositional Machines](https://arxiv.org/abs/2510.14980), (Shihang Xia)
+* _Dec. 1, 2025_ [BuildArena: A Physics-Aligned Interactive Benchmark of LLMs for Engineering Construction](https://build-arena.github.io/), (Sidan Zhu)
 * _Nov. 24, 2025_ [Timestep Embedding Tells: It’s Time to Cache for Video Diffusion Model](https://openaccess.thecvf.com/content/CVPR2025/papers/Liu_Timestep_Embedding_Tells_Its_Time_to_Cache_for_Video_Diffusion_CVPR_2025_paper.pdf), (Bohan Zhang)
 * _Nov. 18, 2025_ [VACE: All-in-One Video Creation and Editing](https://github.com/ali-vilab/VACE), (Jiaxin Zhang)
 * _Oct. 29, 2025_ [POT: Prototypical Optimal Transport for Weakly Supervised Semantic Segmentation](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_POT_Prototypical_Optimal_Transport_for_Weakly_Supervised_Semantic_Segmentation_CVPR_2025_paper.pdf), (Xinran Niu)
