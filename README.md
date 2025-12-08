@@ -1,6 +1,6 @@
 # reading_list
-* _. , 2025_ [](), ()
-* _. , 2025_ [](), ()
+* _Dec. 29, 2025_ [](), ()
+* _Dec. 22, 2025_ [Unique Lives, Shared World: Learning from Single-Life Videos](https://arxiv.org/pdf/2512.04085), (Sidan Zhu)
 * _Dec. 15, 2025_ [Wukong's 72 Transformations: High-fidelity Textured 3D Morphing via Flow Models](https://www.arxiv.org/pdf/2511.22425), (Jiaxin Zhang)
 * _Dec. 8, 2025_ [Agentic Design of Compositional Machines](https://arxiv.org/abs/2510.14980), (Shihang Xia)
 * _Dec. 1, 2025_ [BuildArena: A Physics-Aligned Interactive Benchmark of LLMs for Engineering Construction](https://build-arena.github.io/), (Sidan Zhu)
