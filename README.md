@@ -1,4 +1,7 @@
 # reading_list
+* _Mar. , 2026_ [](), ()
+* _Feb. , 2026_ [](), ()
+* _Jan. , 2026_ [](), ()
 * _Dec. 29, 2025_ [](), ()
 * _Dec. 22, 2025_ [Unique Lives, Shared World: Learning from Single-Life Videos](https://arxiv.org/pdf/2512.04085), (Sidan Zhu)
 * _Dec. 15, 2025_ [Wukong's 72 Transformations: High-fidelity Textured 3D Morphing via Flow Models](https://www.arxiv.org/pdf/2511.22425), (Jiaxin Zhang)
