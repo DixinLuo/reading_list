@@ -8,7 +8,7 @@
 * _Feb. 2, 2026_ [VULCAN: Tool-Augmented Multi Agents for Iterative 3D Object Arrangement](https://arxiv.org/pdf/2512.22351), (Bohan Zhang)
 * _Jan. 26, 2026_ [CountGD++: Generalized Prompting for Open-World Counting](https://arxiv.org/pdf/2512.23351), (Sidan Zhu)
 * _Jan. 19, 2026_ [Recurrent Video Masked Autoencoders](https://arxiv.org/pdf/2512.13684), (Shihang Xia)
-* _Jan. 12, 2026_ [Particulate: Feed-Forward 3D Object Articulation](https://arxiv.org/pdf/2512.11798), (Shihang Xia)
+* _Jan. 13, 2026_ [Particulate: Feed-Forward 3D Object Articulation](https://arxiv.org/pdf/2512.11798), (Shihang Xia)
 * _Dec. 30, 2025_ [TARA: Simple and Efficient Time Aware Retrieval Adaptation of MLLMs for Video Understanding](https://arxiv.org/pdf/2512.13511), (Xinran Niu)
 * _Dec. 25, 2025_ [Unique Lives, Shared World: Learning from Single-Life Videos](https://arxiv.org/pdf/2512.04085), (Sidan Zhu)
 * _Dec. 15, 2025_ [Wukong's 72 Transformations: High-fidelity Textured 3D Morphing via Flow Models](https://www.arxiv.org/pdf/2511.22425), (Jiaxin Zhang)
