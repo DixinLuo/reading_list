@@ -11,7 +11,7 @@
 * _May. 18, 2026_ [](), ()
 * _May. 11, 2026_ [](), ()
 * _Apr. 27, 2026_ [](), ()
-* _Apr. 20, 2026_ [](), ()
+* _Apr. 20, 2026_ [Modeling the Density of Pixel-level Self-supervised Embeddings for Unsupervised Pathology Segmentation in Medical CT](https://openreview.net/forum?id=i7YnUW0uWg), (Shihang Xia)
 * _Apr. 13, 2026_ [Shoot First, Ask Questions Later? Building Rational Agents that Explore and Act Like People](https://openreview.net/forum?id=EQhUvWH78U), (Sidan Zhu)
 * _Mar. 30, 2026_ [CoSMo3D: Open-World Promptable 3D Semantic Part Segmentation through LLM-Guided Canonical Spatial Modeling](https://github.com/JinLi998/CoSMo3D), (Jiaxin Zhang)
 * _Mar. 23, 2026_ [Inverse Virtual Try-On: Generating Multi-Category Product-Style Images from Clothed Individuals](https://arxiv.org/pdf/2505.21062), (Shihang Xia)
