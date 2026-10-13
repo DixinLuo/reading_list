@@ -1,5 +1,7 @@
 # reading_list
-* _. , 2026_ [](), ()
+* _Dec. 15, 2026_ [](), ()
+* _Dec. 8, 2026_ [](), (Keren Xu)
+* _Dec. 1, 2026_ [](), (Jiamin Wang)
 * _Nov. 24, 2026_ [](), (Jiaxin Zhang)
 * _Nov. 17, 2026_ [](), (Sidan Zhu)
 * _Nov. 10, 2026_ [](), (Renchao Xie)
