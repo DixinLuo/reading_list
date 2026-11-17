@@ -8,7 +8,7 @@
 * _Dec. 7, 2026_ [](), (Bohan Zhang)
 * _Dec. 1, 2026_ [](), (Shihang Xia)
 * _Nov. 24, 2026_ [](), (Jiaxin Zhang)
-* _Nov. 17, 2026_ [](), (Jiamin Wang)
+* _Nov. 17, 2026_ [AniMer: Animal Pose and Shape Estimation Using Family Aware Transformer](https://luoxue-star.github.io/AniMer_project_page/), (Jiamin Wang)
 * _Nov. 10, 2026_ [AMB3R: Accurate Feed-forward Metric-scale 3D Reconstruction with Backend](https://github.com/HengyiWang/amb3r), (Renchao Xie)
 * _Nov. 3, 2026_ [Base Models Can Reason By Taking a Cue From Training Data](https://arxiv.org/abs/2610.06851), (Hemeng Sun)
 * _Oct. 27, 2026_ Mixture-of-Experts Adaptation of SAM for Medical Image Segmentation: [SegMoTE](https://openaccess.thecvf.com/content/CVPR2026/papers/Lu_SegMoTE_Token-Level_Mixture_of_Experts_for_Medical_Image_Segmentation_CVPR_2026_paper.pdf), [SAM-Med3D-MoE](https://papers.miccai.org/miccai-2024/paper/3979_paper.pdf), and [Dual-Adaptive SAM3](https://papers.miccai.org/miccai-2026/paper/0711_paper.pdf), (Shihang Xia)
