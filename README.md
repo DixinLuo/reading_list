@@ -1,7 +1,7 @@
 # reading_list
 * _Mar. 25, 2027_ [](), ()
 * _Feb. 25, 2027_ [](), ()
-* _Jan. 25, 2027_ [](), (Sidan Zhu)
+* _Jan. 25, 2027_ [](), (Hemeng Sun)
 * _Jan. 18, 2027_ [](), (Bohan Zhang)
 * _Jan. 11, 2027_ [](), (Shihang Xia)
 * _Jan. 4, 2027_ [](), (Jiaxin Zhang)
