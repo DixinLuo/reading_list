@@ -10,7 +10,7 @@
 * _Dec. 14, 2026_ [](), (Hemeng Sun)
 * _Dec. 7, 2026_ [](), (Bohan Zhang)
 * _Dec. 1, 2026_ [](), (Shihang Xia)
-* _Nov. 24, 2026_ [](), (Jiaxin Zhang)
+* _Nov. 24, 2026_ [RF-Solver and RF-Edit](https://arxiv.org/abs/2411.04746), [FireFlow](https://arxiv.org/pdf/2412.07517), and [SlerpFlow](https://arxiv.org/pdf/2607.21326), (Jiaxin Zhang)
 * _Nov. 17, 2026_ [AniMer: Animal Pose and Shape Estimation Using Family Aware Transformer](https://luoxue-star.github.io/AniMer_project_page/), (Jiamin Wang)
 * _Nov. 10, 2026_ [AMB3R: Accurate Feed-forward Metric-scale 3D Reconstruction with Backend](https://github.com/HengyiWang/amb3r), (Renchao Xie)
 * _Nov. 3, 2026_ [Base Models Can Reason By Taking a Cue From Training Data](https://arxiv.org/abs/2610.06851), (Hemeng Sun)
